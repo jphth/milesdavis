@@ -1,0 +1,64 @@
+@font-face {
+    font-family: library_3_am;
+    src: url(library-3-am-font/Library3am-5V3Z.otf);
+}
+body {
+    background: rgb(9,36,172);
+    background: radial-gradient(circle, rgba(9,36,172,1) 0%, rgba(119,9,99,1) 100%);
+    background-repeat:repeat;
+    padding: 5%;
+    padding-top: 0%;
+    font-size: large;
+    line-height: 125%;
+
+}
+
+h1 {
+    color: #FBC6F1;
+    font-weight: 50;
+    text-decoration: line-through;
+    font-size: 300%;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+p {
+    color: #FBC6F1;
+    margin: 2%;
+}
+
+blockquote {
+    color: #FBC6F1;
+}
+
+ol {
+    color: #FBC6F1;
+}
+
+ul {
+    color: #FBC6F1
+}
+
+a {
+    color: #FBC6F1;
+    text-decoration: none;
+    font-family: library_3_am;
+    font-weight: lighter;
+    text-shadow: 5px 5px 0px green;
+}
+
+img {
+    border-style: groove;
+    border-width: 5px;
+    border-color: #AA8F09;
+    border-radius:0%;
+}
+
+a.big {
+    font-size: 275%;
+    color: #FBC6F1;    
+}
+
+p.title {
+    font-size: 125%;
+    font-weight: bold;
+}
