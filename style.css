@@ -21,7 +21,19 @@ h1 {
     font-family: 'Rajdhani', sans-serif;
 }
 
+h2 {
+    color: #FBC6F1;
+    font-weight: 50;
+    text-decoration: line-through;
+    font-family: 'Rajdhani', sans-serif;
+}
+
 p {
+    color: #FBC6F1;
+    margin: 2%;
+}
+
+q {
     color: #FBC6F1;
     margin: 2%;
 }
@@ -50,7 +62,7 @@ img {
     border-style: groove;
     border-width: 5px;
     border-color: #AA8F09;
-    border-radius:0%;
+    border-radius:1%;
 }
 
 a.big {
@@ -58,7 +70,7 @@ a.big {
     color: #FBC6F1;    
 }
 
-p.title {
+q.title {
     font-size: 125%;
     font-weight: bold;
 }
